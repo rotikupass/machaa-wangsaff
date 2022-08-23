@@ -15,7 +15,7 @@ global.APIKeys = {
 // setting 
 global.autoread = false // auto read message
 global.autobio = false 
-global.userRegister = true 
+global.userRegister = false
 
 //language
 //Available in indonesia , english & spanyol 
@@ -40,8 +40,8 @@ global.ownernomerr = "+62895622997450" //nmr wa kalian
 global.thumbnail = "./image/kontol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '©xycups' //sticker wm ubah
-global.author = 'Di Buat Oleh rotikupass' //sticker wm ganti nama kalian
+global.packname = '©xycupps' //sticker wm ubah
+global.author = 'Dibuat oleh rotikupass' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
